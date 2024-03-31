@@ -48,3 +48,12 @@ table{
  
  
 }
+a:hover {
+    margin: 100px;
+    transform: scale(2 1);
+    transition: 6s linear;
+    font-size: 30px;
+}
+h2{text-align: center;
+background: darksalmon;}
+p{color: rgb(121, 77, 63)}
